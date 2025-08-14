@@ -12,10 +12,10 @@
   "devDependencies": {
     "@cloudflare/vitest-pool-workers": "^0.8.0",
     "vitest": "^3.0.0 <3.1.0",
-    "wrangler": "^3.60.3"
+    "wrangler": "^4.29.1"
   },
   "dependencies": {
-    "js-yaml": "^4.29.1",
+    "js-yaml": "^4.1.0",
     "sublink-plus": "file:"
   }
 }
